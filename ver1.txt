@@ -1,2 +1,4 @@
-this is the first line
+mkdir repo && cd repo
+git remote add origin /path/to/origin.git
+git add .this is the first line
 this is second line
